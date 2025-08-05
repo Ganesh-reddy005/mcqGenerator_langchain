@@ -1,0 +1,6 @@
+,MCQ,Choices,Correct
+0,What is the primary goal of machine learning?,a : To create machines that can think like humans | b : To develop algorithms that learn from data and make predictions | c : To build robots that can perform physical tasks | d : To write computer programs that can solve logical puzzles,b
+1,Which of the following is NOT a field where machine learning is applied?,a : Natural Language Processing | b : Computer Vision | c : Astrophysics | d : Medicine,c
+2,Who is credited with coining the term 'machine learning'?,a : Alan Turing | b : Donald Hebb | c : Arthur Samuel | d : Tom M. Mitchell,c
+3,What type of learning is used by a program that learns to play checkers by playing against itself?,a : Supervised learning | b : Unsupervised learning | c : Reinforcement learning | d : Transduction learning,c
+4,What is the main difference between machine learning and traditional programming?,"a : Machine learning programs are faster than traditional programs | b : Machine learning programs can learn from data, while traditional programs require explicit instructions | c : Machine learning programs are more complex to develop than traditional programs | d : Machine learning programs can only be used for specific tasks, while traditional programs are more versatile",b
