@@ -1,0 +1,5 @@
+GPT- API key
+langchain
+python-dotenv
+streamlit
+PyPDF2
