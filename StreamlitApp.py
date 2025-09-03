@@ -10,7 +10,7 @@ from src.mcq_generator.MCQ_Generator import generate_chain
 from src.mcq_generator.logger import logging
 
 #loading json file
-with open("/Users/ganeshreddybodireddy/Desktop/genai_mcq_project/response.json",'r') as file:
+with open("genai_mcq_project/response.json",'r') as file:
     RESPONSE_JSON=json.load(file)
 
 #creating title
